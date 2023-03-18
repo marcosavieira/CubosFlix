@@ -8,7 +8,6 @@
     <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html" style="max-width: 150px; height: auto;">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" style="max-width: 150px; height: auto;">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" style="max-width: 150px; height: auto;">
-    <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React" style="max-width: 150px; height: auto;">
     <img src="https://user-images.githubusercontent.com/43313420/105883616-57dbeb00-6007-11eb-9df2-de0e2a42655c.png" alt="Axios" style="width: 200px; height: auto;">
   </div> 
 </div>
